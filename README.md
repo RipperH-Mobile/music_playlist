@@ -1,7 +1,6 @@
 # music_playlist
 
-A new Flutter project.
-
+เป็น การใช้ library เพียง 2 ตัว และมีการใช้เพลง 2 รูปแบบคือ assets และ online และ สามารถ seek ได้ที่ตัว linearProgress สามารถกดฟังทั้งหมดได้ เป็นแบบ playlist 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
